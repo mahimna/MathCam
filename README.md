@@ -1,0 +1,1 @@
+An Android application made at the Velocity Residence hackathon that can take an image of and solve simple math problems. It uses the Tesseract Library for the character recognition and the Wolfram API to solve it. 
